@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,600;1,400&display=swap');
+
+ 
+ *{
+   box-sizing: border-box;
+ }
+
+ body{
+   font-family: 'Poppins', sans-serif;
+  
+  }
+
+  .home-pic{
+     height: 100vh;
+  }
+  
+  .random-detail-box-inner{
+    border: 3px solid yellow;
+    padding: 2px;
+  }
+
+  .random-detail-box-inner h5 {
+    color: #B5460F;
+  }
+
+  .random-detail-box{
+    margin-bottom: 5%;
+    color: black;
+    text-align: center;
+    background: #fff;
+    width: 70%;
+    padding: 5%;
+  }
+
+  li:hover{
+    background: yellow;
+    cursor: pointer;
+  }
+
+  .home-page-categories{
+    background-color: #ecf0f1;
+  }
+
+  h6{
+    color: #006266;
+  }
+
+  .instructions{
+    border: 3px solid red;
+    padding: 15px;
+    border-radius: 5px; 
+  }
+
+  .cooker-pic-div{
+    height: 10%;
+  }
+
+  .random-detail-box{
+    cursor: pointer;
+  }
+
+  .card{
+    cursor: pointer;
+  }
+
+ 
+
+  a{
+    text-decoration: none;
+  }
