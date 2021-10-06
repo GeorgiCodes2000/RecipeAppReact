@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GeorgiCodes2000/RecipeAppReact/static/css/main.5084bb61.chunk.css",
+    "main.js": "/GeorgiCodes2000/RecipeAppReact/static/js/main.f24fb933.chunk.js",
+    "main.js.map": "/GeorgiCodes2000/RecipeAppReact/static/js/main.f24fb933.chunk.js.map",
+    "runtime-main.js": "/GeorgiCodes2000/RecipeAppReact/static/js/runtime-main.0a7afa7e.js",
+    "runtime-main.js.map": "/GeorgiCodes2000/RecipeAppReact/static/js/runtime-main.0a7afa7e.js.map",
+    "static/js/2.122f3e57.chunk.js": "/GeorgiCodes2000/RecipeAppReact/static/js/2.122f3e57.chunk.js",
+    "static/js/2.122f3e57.chunk.js.map": "/GeorgiCodes2000/RecipeAppReact/static/js/2.122f3e57.chunk.js.map",
+    "static/js/3.b0f04210.chunk.js": "/GeorgiCodes2000/RecipeAppReact/static/js/3.b0f04210.chunk.js",
+    "static/js/3.b0f04210.chunk.js.map": "/GeorgiCodes2000/RecipeAppReact/static/js/3.b0f04210.chunk.js.map",
+    "index.html": "/GeorgiCodes2000/RecipeAppReact/index.html",
+    "static/css/main.5084bb61.chunk.css.map": "/GeorgiCodes2000/RecipeAppReact/static/css/main.5084bb61.chunk.css.map",
+    "static/js/2.122f3e57.chunk.js.LICENSE.txt": "/GeorgiCodes2000/RecipeAppReact/static/js/2.122f3e57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a7afa7e.js",
+    "static/js/2.122f3e57.chunk.js",
+    "static/css/main.5084bb61.chunk.css",
+    "static/js/main.f24fb933.chunk.js"
+  ]
+}
